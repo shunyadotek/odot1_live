@@ -1,0 +1,9 @@
+Your pages are served under:
+
+https://bronzwik.gitlab.io/shuna_live
+
+https://develop.events
+
+http://shunyadotek.com
+
+https://shunyadotek.co
